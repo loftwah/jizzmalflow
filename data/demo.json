@@ -1,0 +1,18 @@
+{
+    "name": "Dean Lofts",
+    "bio": "Tech enthusiast, music producer, and dedicated father. Leads Echosight, a Twitter/X analytics platform. Aims to master Ruby, Rails, AWS, and more towards becoming a CTO.",
+    "contact": {
+      "email_mailto": "dean@deanlofts.xyz",
+      "homepage_url": "https://biodrop.io/loftwah",
+      "github_url_new": "https://github.com/loftwah"
+    },
+    "avatar_image": "https://github.com/loftwah.png",
+    "interests": [
+      "Technology",
+      "Music Production",
+      "Reading",
+      "Swimming"
+    ],
+    "motto": "In code we trust, for bugs we bust. With each commit, we thrust forward."
+  }
+  

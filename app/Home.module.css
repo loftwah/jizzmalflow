@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .title {
+    color: #C792EA; /* Soft purple, akin to "Shades of Purple" theme */
+    margin-bottom: 20px;
+  }
+  
+  .fileInputContainer {
+    margin-bottom: 20px;
+  }
+  
+  .fileInputLabel {
+    background-color: #7C3AED; /* Vibrant purple */
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .fileInput {
+    display: none; /* Hide the default input */
+  }
+  
