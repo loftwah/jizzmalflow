@@ -2,6 +2,8 @@
 
 Jizzmalflow is a dynamic JSON visualization tool built with [Next.js](https://nextjs.org/), leveraging the power of Tailwind CSS for a modern and responsive UI. Designed to render JSON data interactively with enhanced features like clickable URLs, image previews, and mailto links, Jizzmalflow stands out as a practical and visually appealing tool for developers and content creators alike.
 
+![Screenshot](https://github.com/loftwah/Jizzmalflow/assets/19922556/4c2f9229-91c2-4676-ae84-6bf913429cd2)
+
 ## Features
 
 * **Dynamic JSON Viewer:** Visualizes JSON data with syntax highlighting inspired by the "Shades of Purple" VS Code theme.
